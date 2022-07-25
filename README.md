@@ -4,16 +4,16 @@ Problem: The aim is to predict whether the patient is having diabetes or not bas
 
 Data Source: Dataset is originally from National Institute of Diabetes and Digestive and Kidney Diseases. It is available on kaggle.com
 
-Features	                             Data Type	Relevance
-Number of times pregnant		          Continuous	Relevant
-Plasma glucose concentration	      	Continuous	Relevant
-Diastolic blood pressure		          Continuous	Relevant
-Triceps skin fold thickness		        Continuous	Relevant
-2-Hour serum insulin		              continuous	Relevant
-Body mass index	                   	Continuous	Relevant
-Diabetes pedigree function		      Continuous	Relevant
-Age (years)		                      Continuous	Relevant
-Class variable		                  Categorical	Relevant
+*Features*	                          *Data Type*	  *Relevance*
+*Number of times pregnant		          *Continuous*	*Relevant*
+*Plasma glucose concentration	      	*Continuous*	*Relevant
+*Diastolic blood pressure		          *Continuous	  *Relevant
+*Triceps skin fold thickness		        *Continuous	  *Relevant
+*2-Hour serum insulin		              *continuous	  *Relevant
+*Body mass index	                   	*Continuous	   *Relevant
+*Diabetes pedigree function		      *Continuous	   *Relevant
+*Age (years)		                      *Continuous	   *Relevant
+*Class variable		                  *Categorical	    *Relevant
 
 
 #Ensemble Learning Algorithms
